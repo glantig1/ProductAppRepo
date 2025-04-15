@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D38704-7F32-4F0B-8E09-56DC8A96B9C0}|ProductsApp\\ProductsApp.csproj|C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\productsapp-automation.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D38704-7F32-4F0B-8E09-56DC8A96B9C0}|ProductsApp\\ProductsApp.csproj|c:\\users\\g\\documents\\github\\productapprepo\\productsapp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D38704-7F32-4F0B-8E09-56DC8A96B9C0}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{598F2B72-A3EB-4530-8C34-E9A789830115}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\g\\documents\\github\\productapprepo\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{598F2B72-A3EB-4530-8C34-E9A789830115}|ProductsApp.Tests\\ProductsApp.Tests.csproj|C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{598F2B72-A3EB-4530-8C34-E9A789830115}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +25,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "productsapp-automation.postman_collection.json",
+              "DocumentMoniker": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\productsapp-automation.postman_collection.json",
+              "RelativeDocumentMoniker": "..\\productsapp-automation.postman_collection.json",
+              "ToolTip": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\productsapp-automation.postman_collection.json",
+              "RelativeToolTip": "..\\productsapp-automation.postman_collection.json",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwE0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T04:39:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TestSimpleProductController.cs",
               "DocumentMoniker": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeDocumentMoniker": "ProductsApp.Tests\\TestSimpleProductController.cs",
@@ -34,25 +50,24 @@
               "RelativeToolTip": "ProductsApp.Tests\\TestSimpleProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:25:03.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T06:25:03.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T06:18:13.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\G\\Documents\\GitHub\\ProductAppRepo\\ProductsApp\\ProductsApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Models\\Product.cs",
